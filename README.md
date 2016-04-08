@@ -4,7 +4,7 @@
 
 * Status: ✔ In Development
 * Contributors: [@randychampagne](http://twitter.com/randychampagne)
-* Description: This repo holds design assets for my portfolio site
+* Description: This repo holds design assets for this project
 * Author: [Randy Champagne](http://www.randychampagne.com)
 * Author URI: [http://www.randychampagne.com](http://www.randychampagne.com)
 * License: GNU General Public License v3.0
@@ -15,9 +15,9 @@
 
 ## About Me
 
-**[Randy Champagne Web Development](http://www.randychampagne.com)**
+**[Involved Community Engagement Network](http://icenetworktv.github.io/)**
 
-I am a highly creative full stack developer who creates elegant user-centered experiences for web and mobile. I develop mobile-first responsive web sites and applications for startups, small businesses, and independent professionals.
+ICE Network is a startup in Atlantic City. We are launching a television network that produces wholesome, uplifting and educational programming. It is also a platform for social entrepreneurship and community activism in the greater South Jersey area.
 
 
 
